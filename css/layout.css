@@ -26,5 +26,16 @@
 
 
 col-1 {
-  
+  float: right;
+  width: 32%;
+  overflow: scroll;
 }
+
+.col-2 {
+  float: left;
+  width: 64%;
+}
+
+
+
+
